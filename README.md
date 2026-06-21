@@ -130,14 +130,6 @@ O sistema aceita `.csv` ou `.xlsx` com as colunas abaixo. Nomes alternativos em 
 
 Produtos com **gap acima de 10%** são marcados como desvio crítico.
 
-### 4. Gere o relatório IA
-
-Clique em **ADVISOR IA** para gerar um relatório executivo com diagnóstico de competitividade, receita em risco e plano de ação por categoria.
-
-> Requer `GEMINI_API_KEY` configurada. Sem a chave, o sistema exibe um relatório simulado.
-
----
-
 ## 🔒 Segurança
 
 - CORS restrito por origem configurável
