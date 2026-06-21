@@ -1,0 +1,6 @@
+{
+  "name": "Argus Pricing",
+  "description": "Dashboard estratégico para o monitoramento de preço e competitividade dos Top itens diários do Marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
