@@ -19,6 +19,17 @@ Encontra concorrentes automaticamente por imagem e nome do produto, calcula o ga
 
 **Argus Pricing** é uma ferramenta de monitoramento de preços que usa **busca visual por imagem** (Google Lens via SerpAPI) combinada com **validação por IA** (Google Gemini) para encontrar os seus concorrentes diretos nos principais marketplaces brasileiros — Mercado Livre, Shopee, Magalu, Netshoes e outros.
 
+## 📚 Documentação Técnica
+
+A documentação operacional completa fica em [`docs/README.md`](docs/README.md):
+
+- Arquitetura e fluxos: [`docs/architecture.md`](docs/architecture.md)
+- Contratos de API: [`docs/api.md`](docs/api.md)
+- Importação de planilhas: [`docs/data-import.md`](docs/data-import.md)
+- Runbook de operação: [`docs/runbook.md`](docs/runbook.md)
+- Testes e cobertura: [`docs/testing.md`](docs/testing.md)
+- Segurança: [`docs/security.md`](docs/security.md)
+
 Diferente das ferramentas tradicionais que fazem matching por EAN ou SKU, o Argus Pricing usa a **foto do seu anúncio** como vetor de busca, garantindo resultados visualmente compatíveis com o seu produto real.
 
 ---
